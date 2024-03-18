@@ -1,0 +1,109 @@
+  .panel {
+      border: 0px solid; 
+      border-radius:0 !important;
+      transition: box-shadow 0.5s;
+  }
+  
+  
+  .panel-heading {
+      color: #fff !important;
+      background-color: rgb(40, 55, 85) !important;
+      padding: 25px;
+      border-bottom: 1px solid transparent;
+      
+  }
+  
+  
+
+body {
+	padding-top: 50px;
+	color: #959595;
+	}
+
+h1, h2, h3, h4, h5, h6 {
+	color: 	#838b8b;
+	}
+	
+p.extra {
+
+font-size: 20px;
+text-align:justify;
+
+}
+
+ul.extra{
+	
+	text-align:left;
+}
+
+h1.extra{
+
+font-size:26px;
+color: #838b8b;
+}
+
+h1.Niederlassung{
+	color: white;
+	
+}
+h3.Niederlassung{
+	
+		color: white;
+		
+}
+
+a{
+	color:#838b8b;
+	
+}
+
+.feature {
+background: rgb(40, 55, 85) linear-gradient(to bottom, rgb(48, 86, 117), rgb(159, 189, 214));
+color: #e0eeee;
+
+	}
+
+#feature-carousel {
+	min-height: 250px;
+	}
+
+.article-intro {
+    margin-bottom: 25px;
+	
+}
+
+.footer-blurb {
+    padding: 30px 0;
+		background: rgb(40, 55, 85) linear-gradient(to bottom, rgb(48, 86, 117), rgb(159, 189, 214));
+    color: black;
+}
+
+.footer-blurb-item {
+        
+	}
+
+.small-print {
+	background-color: #fff;
+	padding: 30px 0;
+
+}
+.col-md-4 .col-md-12{
+	padding: 10px;
+	margin: 50px;
+	
+}
+
+.alert-danger{
+	color: #dff0d8;
+}
+
+
+	
+.feature,
+.page-intro,
+.article-intro,
+.footer-blurb,
+.small-print {
+	text-align: center;
+	font-size: 18px;
+	}
